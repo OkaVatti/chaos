@@ -1,4 +1,4 @@
-# Chaos v1
+# Chaos. Version 0.0.1a
 
 *Lorenz attractors for cryotography.*
 
